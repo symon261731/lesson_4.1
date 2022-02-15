@@ -1,0 +1,60 @@
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700;900&display=swap');
+@font-face {
+    font-family: "Merriweather";
+    src: url("../fonts/Merriweather-Italic.woff2") format("woff2"), url("../fonts/Merriweather-Italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+body{
+    
+    font-size: 23px;
+    font-family: "Oswald";
+    font-weight: 400;
+}
+h1{
+    font-family: "Oswald";
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 2;
+}
+.text{
+    color: rgb(42, 18, 18);
+    font-family: "Merriweather";
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1;
+}
+.after-text{
+    margin-top: 40px;
+}
+
+h2{
+    font-family: "Roboto";
+    line-height: 3;
+    font-size: 27px;
+    font-weight: 900;
+    color: black;
+    text-transform: uppercase;
+
+
+}
+li{
+    color: darkred;
+    font-size: 23px;
+    font-family: "Roboto+Condesed";
+    font-weight: 700;
+    text-decoration: underline;
+     
+}   
+p
+{
+    text-align: left;
+}
+
+
+
+
